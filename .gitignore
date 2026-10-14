@@ -1,0 +1,9 @@
+# Python environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Datasets (large, provided by the course)
+data/
+*.7z
+*.zip
